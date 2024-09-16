@@ -2,7 +2,8 @@
 This tools filter out all unwanted text and give subdomains only
 
 install
-git clone \n
+git clone
+
 chmod +x subfilt.sh
 
 usage
